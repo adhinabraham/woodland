@@ -38,29 +38,7 @@
 }.align{
     width: 100%;
     height: 100px;}
-    #jack{
-        background-image:url(/images/b-jackets-1003-1.jpg);
-        background-repeat: no-repeat;
-        background-size: 100% ;
-        height: ;
-        color: white;
-        margin-bottom: 0;
-
-    }
-    
-    @media (min-width: 992px) {
-
-        #jack{
-            background-image:url(/images/b-jackets-1003-1.jpg);
-            background-repeat: no-repeat;
-            background-size: 100% ;
-            height: 500px!important;
-            color: white;
-            
-    
-        }
-    }
-
+  
    
     #jack1 {
         color: white;
